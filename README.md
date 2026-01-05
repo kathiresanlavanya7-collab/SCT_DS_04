@@ -62,4 +62,4 @@ A sample accident dataset was created containing:
 ## 🚀 How to Run
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/Traffic-Accident-Data-Analysis.git
+git clone https:https://github.com/kathiresanlavanya7-collab/SCT_DS_04.git
